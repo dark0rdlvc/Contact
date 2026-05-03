@@ -1,0 +1,9 @@
+bin/
+obj/
+packages/
+*.user
+.vs/
+.idea/
+*.suo
+*.cache
+appsettings.Development.json
